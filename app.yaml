@@ -1,4 +1,4 @@
-application: your-app-id
+application: fisherds-appengine-angular-seed
 version: 1
 runtime: python27
 threadsafe: true
